@@ -125,8 +125,6 @@ extension MainViewController {
         button.titleLabel?.font = UIFont.systemFont(ofSize: 24, weight: .bold)
         
     }
-    
-    
 }
 
 //MARK: - Layout

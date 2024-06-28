@@ -33,6 +33,4 @@ class ViewModel: MainViewModelProtocol {
     func alphaForLight(_ state: TrafficLightState) -> CGFloat {
         return currentLight == state ? lightIsOn : lightIsOff
     }
-    
-    
 }
